@@ -27,7 +27,7 @@ III. Running
 
  Version: 1.0
 
- Git: 
+ Git: https://github.com/BBakerpkt/edc
 
 	This Program was written for a Project in my CPSC485
  Bioinformatics Class. It was to take two words from the user
