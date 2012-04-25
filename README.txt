@@ -1,10 +1,10 @@
 README.txt Written By Blake Baker
 
 Table of Contents:
+
 I. About
 II. Notes
 III. Running
-
 
 
 -----------------I. About ------------------------------
@@ -44,7 +44,6 @@ III. Running
 1. I tried to implement a recurring program so you did 
 not have to rerun every time but ran into problems with 
 user input. This will be a feature added later.
-
 
 
 -----------------III. Running --------------------------
